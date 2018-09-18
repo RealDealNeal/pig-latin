@@ -10,4 +10,4 @@ if len(original) > 0 and original.isalpha():
     new_word = part_word[1:len(part_word)]
     print new_word
 else:
-    print 'empty'
+    print 'no igpay atinlay for you'
